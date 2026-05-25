@@ -355,6 +355,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🗑️ | [InboxPurge](https://www.inboxpurge.com/?utm_source=tonybf) | Clean up your Gmail in minutes. Unsubscribe, delete junk, and reclaim your sanity. | 30% OFF the PRO plan with code **BF2025** |
 | ⭐ | [CSV Table](https://csvtable.com/) | View and edit CSV, JSON data for Professional s| 60% off with code **BLACKFRIDAY2025** |
 | 🔥 | [SwiftBiu](https://swiftbiu.com) | SwiftBiu is a text efficiency tool for macOS, select text in any app and a customizable extended toolbar pops up to make common operations "one step". Supports AI multimodal (text-to-text, text-to-graph), AppleScript/javascript plugins, html extension applets. | **50% OFF** Pro Lifetime only $ 4.99 between Nov 21 - Dec 26 |
+| 📧 | [Gmailytics](https://gmailytics.com) | Gmail inbox cleanup tool — see who fills your inbox, batch delete by sender, unsubscribe from newsletters, free up Google storage | $10 LIFETIME (one-time, no subscription). Cheaper than InboxPurge ($48/yr), Clean Email ($30/yr), Trimbox ($69 lifetime) |
 ⬆️ | [Go to Top](#table-of-contents)
 
 
